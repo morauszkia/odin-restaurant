@@ -1,1 +1,1 @@
-console.log("Hello at the restaurant page!");
+(()=>{"use strict";document.getElementById("content"),console.log("Hello at the restaurant page!")})();
